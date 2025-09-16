@@ -1,4 +1,4 @@
-# Validador de CPF e CNPJ em C #
+# Validador de CPF e CNPJ em C#
 
 Uma biblioteca .NET, simples e robusta, para validação de números de CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica) do Brasil. O projeto segue as melhores práticas de desenvolvimento, como SOLID e testes unitários, para garantir confiabilidade и manutenibilidade.
 
